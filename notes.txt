@@ -1,0 +1,6 @@
+Maybe analytics integration should be outside of plugin?
+Provide snippet for adding gtag function
+Link to guide for tag manager
+Blur last paragraph rather than cutting it off?
+Must work with page builders and gutenberg, not just standard editor
+Use "Read more" text specified in MORE tag — need a parser function
